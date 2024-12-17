@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+
+ }
+h1{
+    color: blue; font-size: 50px;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+}
+
+    .teksts
+     {
+            font-family: "Miniver", cursive;
+            font-weight: 400;
+            font-style: normal;
+        width: 1000px;
+        text-align: left;
+        
+        position: relative;
+        padding: 110px;
+  margin: 80px;
+        
+}
+    img {
+        float: left;
+        align-self: auto;
+      }
+
+      div {
+        align-self: center;
+        width: 300px;
+        align-self: center;
+        padding: 20px;
+        margin: 5px;
+        float: right;
+      }
